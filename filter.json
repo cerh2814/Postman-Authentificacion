@@ -1,0 +1,8 @@
+[
+    {"filter": "category=electronics"},
+    {"filter": "priceMin=100&priceMax=500"},
+    {"filter": "sort=asc"},
+    {"filter": "search=laptop"},
+    {"filter": "invalid_filter=123"},
+    {"filter":"category=Accessories"}
+]

@@ -1,0 +1,305 @@
+[
+    {
+        "username": "carlos"
+    },
+    {
+        "username": "root"
+    },
+    {
+        "username": "admin"
+    },
+    {
+        "username": "test"
+    },
+    {
+        "username": "guest"
+    },
+    {
+        "username": "info"
+    },
+    {
+        "username": "adm"
+    },
+    {
+        "username": "mysql"
+    },
+    {
+        "username": "user"
+    },
+    {
+        "username": "administrator"
+    },
+    {
+        "username": "oracle"
+    },
+    {
+        "username": "ftp"
+    },
+    {
+        "username": "pi"
+    },
+    {
+        "username": "puppet"
+    },
+    {
+        "username": "ansible"
+    },
+    {
+        "username": "ec2-user"
+    },
+    {
+        "username": "vagrant"
+    },
+    {
+        "username": "azureuser"
+    },
+    {
+        "username": "academico"
+    },
+    {
+        "username": "acceso"
+    },
+    {
+        "username": "access"
+    },
+    {
+        "username": "accounting"
+    },
+    {
+        "username": "accounts"
+    },
+    {
+        "username": "acid"
+    },
+    {
+        "username": "activestat"
+    },
+    {
+        "username": "ad"
+    },
+    {
+        "username": "adam"
+    },
+    {
+        "username": "adkit"
+    },
+    {
+        "username": "admin"
+    },
+    {
+        "username": "administracion"
+    },
+    {
+        "username": "administrador"
+    },
+    {
+        "username": "administrator"
+    },
+    {
+        "username": "administrators"
+    },
+    {
+        "username": "admins"
+    },
+    {
+        "username": "ads"
+    },
+    {
+        "username": "adserver"
+    },
+    {
+        "username": "adsl"
+    },
+    {
+        "username": "ae"
+    },
+    {
+        "username": "af"
+    },
+    {
+        "username": "affiliate"
+    },
+    {
+        "username": "affiliates"
+    },
+    {
+        "username": "afiliados"
+    },
+    {
+        "username": "ag"
+    },
+    {
+        "username": "agenda"
+    },
+    {
+        "username": "agent"
+    },
+    {
+        "username": "ai"
+    },
+    {
+        "username": "aix"
+    },
+    {
+        "username": "ajax"
+    },
+    {
+        "username": "ak"
+    },
+    {
+        "username": "akamai"
+    },
+    {
+        "username": "al"
+    },
+    {
+        "username": "alabama"
+    },
+    {
+        "username": "alaska"
+    },
+    {
+        "username": "albuquerque"
+    },
+    {
+        "username": "alerts"
+    },
+    {
+        "username": "alpha"
+    },
+    {
+        "username": "alterwind"
+    },
+    {
+        "username": "am"
+    },
+    {
+        "username": "amarillo"
+    },
+    {
+        "username": "americas"
+    },
+    {
+        "username": "an"
+    },
+    {
+        "username": "anaheim"
+    },
+    {
+        "username": "analyzer"
+    },
+    {
+        "username": "announce"
+    },
+    {
+        "username": "announcements"
+    },
+    {
+        "username": "antivirus"
+    },
+    {
+        "username": "ao"
+    },
+    {
+        "username": "ap"
+    },
+    {
+        "username": "apache"
+    },
+    {
+        "username": "apollo"
+    },
+    {
+        "username": "app"
+    },
+    {
+        "username": "app01"
+    },
+    {
+        "username": "app1"
+    },
+    {
+        "username": "apple"
+    },
+    {
+        "username": "application"
+    },
+    {
+        "username": "applications"
+    },
+    {
+        "username": "apps"
+    },
+    {
+        "username": "appserver"
+    },
+    {
+        "username": "aq"
+    },
+    {
+        "username": "ar"
+    },
+    {
+        "username": "archie"
+    },
+    {
+        "username": "arcsight"
+    },
+    {
+        "username": "argentina"
+    },
+    {
+        "username": "arizona"
+    },
+    {
+        "username": "arkansas"
+    },
+    {
+        "username": "arlington"
+    },
+    {
+        "username": "as"
+    },
+    {
+        "username": "as400"
+    },
+    {
+        "username": "asia"
+    },
+    {
+        "username": "asterix"
+    },
+    {
+        "username": "at"
+    },
+    {
+        "username": "athena"
+    },
+    {
+        "username": "atlanta"
+    },
+    {
+        "username": "atlas"
+    },
+    {
+        "username": "att"
+    },
+    {
+        "username": "au"
+    },
+    {
+        "username": "auction"
+    },
+    {
+        "username": "austin"
+    },
+    {
+        "username": "auth"
+    },
+    {
+        "username": "auto"
+    },
+    {
+        "username": "autodiscover"
+    }
+]

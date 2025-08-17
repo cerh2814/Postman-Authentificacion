@@ -264,6 +264,107 @@
 				"description": "Generated from cURL: curl 'https://0a6c003b03b490a4832c552800d800b4.web-security-academy.net/login' \\\r\n  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \\\r\n  -H 'accept-language: es-ES,es;q=0.9' \\\r\n  -H 'cache-control: max-age=0' \\\r\n  -H 'content-type: application/x-www-form-urlencoded' \\\r\n  -b 'session=uM0pTVao4mbd4soLy09mbZUAMLXhjBjF' \\\r\n  -H 'origin: https://0a6c003b03b490a4832c552800d800b4.web-security-academy.net' \\\r\n  -H 'priority: u=0, i' \\\r\n  -H 'referer: https://0a6c003b03b490a4832c552800d800b4.web-security-academy.net/login' \\\r\n  -H 'sec-ch-ua: \"Chromium\";v=\"139\", \"Not;A=Brand\";v=\"99\"' \\\r\n  -H 'sec-ch-ua-mobile: ?0' \\\r\n  -H 'sec-ch-ua-platform: \"Windows\"' \\\r\n  -H 'sec-fetch-dest: document' \\\r\n  -H 'sec-fetch-mode: navigate' \\\r\n  -H 'sec-fetch-site: same-origin' \\\r\n  -H 'sec-fetch-user: ?1' \\\r\n  -H 'upgrade-insecure-requests: 1' \\\r\n  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36' \\\r\n  --data-raw 'username=ana&password=ana' \\\r\n  --insecure"
 			},
 			"response": []
+		},
+		{
+			"name": "API",
+			"request": {
+				"method": "PATCH",
+				"header": [
+					{
+						"key": "Host",
+						"value": "0ab0001d03f6c9c480893f2a00550040.web-security-academy.net"
+					},
+					{
+						"key": "Content-Length",
+						"value": "32"
+					},
+					{
+						"key": "Sec-Ch-Ua-Platform",
+						"value": "\"Windows\""
+					},
+					{
+						"key": "Accept-Language",
+						"value": "es-ES,es;q=0.9"
+					},
+					{
+						"key": "Sec-Ch-Ua",
+						"value": "\"Chromium\";v=\"139\", \"Not;A=Brand\";v=\"99\""
+					},
+					{
+						"key": "Content-Type",
+						"value": "text/plain;charset=UTF-8"
+					},
+					{
+						"key": "Sec-Ch-Ua-Mobile",
+						"value": "?0"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+					},
+					{
+						"key": "Accept",
+						"value": "*/*"
+					},
+					{
+						"key": "Origin",
+						"value": "https://0ab0001d03f6c9c480893f2a00550040.web-security-academy.net"
+					},
+					{
+						"key": "Sec-Fetch-Site",
+						"value": "same-origin"
+					},
+					{
+						"key": "Sec-Fetch-Mode",
+						"value": "cors"
+					},
+					{
+						"key": "Sec-Fetch-Dest",
+						"value": "empty"
+					},
+					{
+						"key": "Referer",
+						"value": "https://0ab0001d03f6c9c480893f2a00550040.web-security-academy.net/my-account"
+					},
+					{
+						"key": "Accept-Encoding",
+						"value": "gzip, deflate, br"
+					},
+					{
+						"key": "Priority",
+						"value": "u=1, i"
+					},
+					{
+						"key": "Cookie",
+						"value": "session=f6umtooeCJzUnFimgxXfdJ0EYU5I7W8f"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"email\":\"wiener02@yopmail.com\"}",
+					"options": {
+						"raw": {
+							"language": "text"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://0ab0001d03f6c9c480893f2a00550040.web-security-academy.net/api/user/wiener",
+					"protocol": "https",
+					"host": [
+						"0ab0001d03f6c9c480893f2a00550040",
+						"web-security-academy",
+						"net"
+					],
+					"path": [
+						"api",
+						"user",
+						"wiener"
+					]
+				},
+				"description": "Generated from cURL: curl --path-as-is -i -s -k -X $'PATCH' \\\r\n    -H $'Host: 0ab0001d03f6c9c480893f2a00550040.web-security-academy.net' -H $'Content-Length: 32' -H $'Sec-Ch-Ua-Platform: \\\"Windows\\\"' -H $'Accept-Language: es-ES,es;q=0.9' -H $'Sec-Ch-Ua: \\\"Chromium\\\";v=\\\"139\\\", \\\"Not;A=Brand\\\";v=\\\"99\\\"' -H $'Content-Type: text/plain;charset=UTF-8' -H $'Sec-Ch-Ua-Mobile: ?0' -H $'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36' -H $'Accept: */*' -H $'Origin: https://0ab0001d03f6c9c480893f2a00550040.web-security-academy.net' -H $'Sec-Fetch-Site: same-origin' -H $'Sec-Fetch-Mode: cors' -H $'Sec-Fetch-Dest: empty' -H $'Referer: https://0ab0001d03f6c9c480893f2a00550040.web-security-academy.net/my-account' -H $'Accept-Encoding: gzip, deflate, br' -H $'Priority: u=1, i' \\\r\n    -b $'session=f6umtooeCJzUnFimgxXfdJ0EYU5I7W8f' \\\r\n    --data-binary $'{\\\"email\\\":\\\"wiener02@yopmail.com\\\"}' \\\r\n    $'https://0ab0001d03f6c9c480893f2a00550040.web-security-academy.net/api/user/wiener'"
+			},
+			"response": []
 		}
 	]
 }

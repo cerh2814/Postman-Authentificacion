@@ -19,7 +19,8 @@
 							"pm.environment.set(\"sessionId\", sessionId);"
 						],
 						"type": "text/javascript",
-						"packages": {}
+						"packages": {},
+						"requests": {}
 					}
 				}
 			],
@@ -28,7 +29,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"capabilities\": {\r\n        \"alwaysMatch\": {\r\n            \"platformName\": \"android\",\r\n            \"platformVersion\": \"16\",\r\n            \"browserName\": \"Chrome\",\r\n            \"deviceName\": \"Pixel\",\r\n            \"automationName\":\"UiAutomator2\",\r\n            \"chromedriverExecutable\": \"C:\\\\Webdriver\\\\chromedriver-win64\\\\chromedriver.exe\"\r\n        \r\n        }\r\n    }\r\n}",
+					"raw": "{\r\n    \"capabilities\": {\r\n        \"alwaysMatch\": {\r\n            \"platformName\": \"android\",\r\n            \"platformVersion\": \"16.0\",\r\n            \"browserName\": \"Chrome\",\r\n            \"deviceName\": \"emulator-5554\",\r\n            \"chromedriverExecutable\": \"C:/Users/cerh2/Desktop/webdriver-mobile/chromedriver.exe\"          \r\n        }\r\n    }\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -124,6 +125,14 @@
 						"{{sessionId}}"
 					]
 				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
 			},
 			"response": []
 		}
